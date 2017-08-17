@@ -21,7 +21,8 @@ var materialPackages = [
   { name: '@material/tabs', css: true, js: true },
   { name: '@material/ripple', css: true, js: true },
   { name: '@material/linear-progress', css: true, js: true },
-  { name: '@material/typography', css: true, js: false }
+  { name: '@material/typography', css: true, js: false },
+  { name: '@material/drawer', css: true, js: true }
 ];
 
 /**
