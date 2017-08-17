@@ -27,7 +27,6 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "@material/drawer": "^0.5.4",
     "ember-cli-babel": "^5.1.7",
     "ember-cli-htmlbars": "^1.0.10",
     "ember-rollup": "^0.3.4"
@@ -38,6 +37,7 @@
     "@material/button": "0.3.7",
     "@material/card": "0.1.0",
     "@material/checkbox": "0.1.0",
+    "@material/drawer": "^0.5.4",
     "@material/elevation": "0.1.1",
     "@material/fab": "0.3.9",
     "@material/form-field": "0.1.1",

@@ -20,7 +20,8 @@ module.exports = {
       { name: '@material/tabs', target: '0.1.1'},
       { name: '@material/ripple', target: '0.7.0'},
       { name: '@material/linear-progress', target: '0.1.3'},
-      { name: '@material/typography', target: '0.3.0'}
+      { name: '@material/typography', target: '0.3.0'},
+      { name: '@material/drawer', target: '0.5.4'}
     ]);
   }
 };
